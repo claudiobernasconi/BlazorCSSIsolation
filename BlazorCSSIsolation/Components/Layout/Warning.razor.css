@@ -1,0 +1,9 @@
+﻿.warning {
+    color: red;
+    font-size: 12pt;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #FFCCCB;
+    border: 2px solid red;
+}
